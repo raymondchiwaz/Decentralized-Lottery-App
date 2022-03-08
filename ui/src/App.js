@@ -173,7 +173,7 @@ class App extends React.Component {
                   target='_blank'
                   rel='noopener noreferrer'
                   className='remote-link'
-                  href='https://rinkeby.etherscan.io/tx/0x3349da25727612e32d292b2fd1f1d2ac5d07b35b9b0f62f356f60d3aa65c6241'
+                  href='https://bttcscan.com/tx/0x3349da25727612e32d292b2fd1f1d2ac5d07b35b9b0f62f356f60d3aa65c6241'
                 >
                   EtherScan
                 </a>
